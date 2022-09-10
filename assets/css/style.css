@@ -230,3 +230,6 @@ footer {
   }
 
 }
+.select-dropdown, .select-status {
+  appearance: none;
+}
